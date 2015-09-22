@@ -1,2 +1,2 @@
 # dataunity-tempfiles
-A container for Data Unity temporary files.
+A Docker image for Data Unity temporary files.
